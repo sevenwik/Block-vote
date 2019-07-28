@@ -4,9 +4,9 @@ Indian elections vote percentage clocks only around **60-70 percent** most of th
 ## Why Blockchain ?
 
 -  Double spending. 
--  Maintainy consistency is a cause of concern with the distributed systems so there was a need to switch systems and move on to decentralized system.
+-  Maintainy consistency is a cause of concern with the distributed systems, so there was a need to switch systems and move on to decentralized system.
 - Resolving conflicts got easier in decentralized system with the emergence of hash functions.
-- Servers are updated with better network connectivity. And with utmost security.
+- Servers are updated with better network connectivity, And with utmost security.
 
 ## Using Blockchain we can build :-
 
