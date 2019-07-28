@@ -27,4 +27,6 @@ Thus reducing the risk of errors in counting too.
 
 >"Bad officials are elected by good citizens who don't vote."
 
-And our motto is *building a civilized nation* lead by skillful leaders so we came up with an idea which lets **everyone vote**.
+And our motto is *building a civilized nation* lead by skillful leaders so we came up with an idea which lets **everyone vote** irrespective of their race, wealth,mobility to the centre.. Thus upholding **Unity In Diversity**. 
+
+Let's do this INDIA. **JAI HIND**
