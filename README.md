@@ -1,6 +1,8 @@
 # Block-vote
 Indian elections vote percentage clocks only around **60-70 percent** most of the times. Our focus is to hit the **ton mark** with the help of **Azure Blockchain** which automatically manages the backend part and security thus allowing our developers to come up with the astonishing game changing app with a very *minimum fuss* and *great quality*.
 
+**Vote from anywhere without a governing body**
+
 ## Why Blockchain ?
 
 -  Double spending. 
