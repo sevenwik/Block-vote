@@ -15,7 +15,7 @@ Indian elections vote percentage clocks only around **60-70 percent** most of th
 - No supervision needed.
 - Each persons vote will be validated with his credentials, just like how a transaction is validated when it is placed in the a particular block.
 - Each block can contain no. of voted depending upon total no of votes.
-- With the help of this we can maintain consistency and also save a lot of time and the election process will be happen automatically without any supervision but with full transperancy, no separate commission needed expect for a pack of data miners.
+- With the help of this we can maintain consistency and also save a lot of time and the election process will happen automatically without any supervision but with full transperancy, no separate commission needed expect for a pack of data miners.
 
 The second obstacle in the voting is that most of the citizens are not **properly educated** of the parties and its promises made. So a complete back up of the promises and the candidates can be maintained using **azure cloud** too.
 
